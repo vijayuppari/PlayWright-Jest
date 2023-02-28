@@ -1,0 +1,6 @@
+// To Run test cases in Jest
+        // jest filename (example:jest launchbrowser.test.ts)
+
+// To generate code automatically
+    // npx playwright codegen letcode.in
+
